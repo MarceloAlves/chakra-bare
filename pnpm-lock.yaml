@@ -5,6 +5,7 @@ specifiers:
   '@chakra-ui/react': ^1.8.3
   '@emotion/react': ^11
   '@emotion/styled': ^11
+  '@marceloalves/prettier-config': latest
   '@types/react': ^17.0.33
   '@types/react-dom': ^17.0.10
   '@vitejs/plugin-react': ^1.0.7
@@ -25,6 +26,7 @@ dependencies:
   react-dom: 17.0.2_react@17.0.2
 
 devDependencies:
+  '@marceloalves/prettier-config': 1.0.0
   '@types/react': 17.0.39
   '@types/react-dom': 17.0.11
   '@vitejs/plugin-react': 1.1.4
@@ -1264,6 +1266,10 @@ packages:
     dependencies:
       '@jridgewell/resolve-uri': 3.0.4
       '@jridgewell/sourcemap-codec': 1.4.10
+    dev: true
+
+  /@marceloalves/prettier-config/1.0.0:
+    resolution: {integrity: sha512-DJZ3OeiMq7bhORcqHuNayLWXfw3UayQjjJ59XoFgKQQB3HxwRH1oUEleAEIiE2RQxz7xSKggvej8WI5FHoxAxQ==}
     dev: true
 
   /@popperjs/core/2.11.2:
