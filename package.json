@@ -10,9 +10,9 @@
   },
   "prettier": "@marceloalves/prettier-config",
   "dependencies": {
-    "@chakra-ui/icons": "1.1.5",
-    "@chakra-ui/react": "1.8.3",
-    "@chakra-ui/styled-system": "1.17.2",
+    "@chakra-ui/icons": "1.1.7",
+    "@chakra-ui/react": "1.8.5",
+    "@chakra-ui/styled-system": "1.18.1",
     "@emotion/react": "11.7.1",
     "@emotion/styled": "11.6.0",
     "framer-motion": "6.2.6",
@@ -20,7 +20,7 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@chakra-ui/cli": "1.8.1",
+    "@chakra-ui/cli": "1.8.2",
     "@marceloalves/prettier-config": "1.0.0",
     "@types/react": "17.0.39",
     "@types/react-dom": "17.0.11",
