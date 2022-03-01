@@ -11,7 +11,7 @@
   "prettier": "@marceloalves/prettier-config",
   "dependencies": {
     "@chakra-ui/icons": "1.1.7",
-    "@chakra-ui/react": "1.8.5",
+    "@chakra-ui/react": "1.8.6",
     "@chakra-ui/styled-system": "1.18.1",
     "@emotion/react": "11.8.1",
     "@emotion/styled": "11.8.1",
@@ -20,7 +20,7 @@
     "react-dom": "17.0.2"
   },
   "devDependencies": {
-    "@chakra-ui/cli": "1.8.2",
+    "@chakra-ui/cli": "1.9.0",
     "@marceloalves/prettier-config": "1.0.0",
     "@types/react": "17.0.39",
     "@types/react-dom": "17.0.11",
