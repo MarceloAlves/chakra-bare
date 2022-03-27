@@ -11,8 +11,8 @@
   "prettier": "@marceloalves/prettier-config",
   "dependencies": {
     "@chakra-ui/icons": "1.1.7",
-    "@chakra-ui/react": "1.8.6",
-    "@chakra-ui/styled-system": "1.18.1",
+    "@chakra-ui/react": "1.8.7",
+    "@chakra-ui/styled-system": "1.19.0",
     "@emotion/react": "11.8.2",
     "@emotion/styled": "11.8.1",
     "framer-motion": "6.2.8",
