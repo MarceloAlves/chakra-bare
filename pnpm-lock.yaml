@@ -15,7 +15,7 @@ specifiers:
   prettier: 2.6.2
   react: 18.1.0
   react-dom: 18.1.0
-  typescript: 4.6.4
+  typescript: 4.7.2
   vite: 2.9.9
 
 dependencies:
@@ -29,13 +29,13 @@ dependencies:
   react-dom: 18.1.0_react@18.1.0
 
 devDependencies:
-  '@chakra-ui/cli': 1.9.0_typescript@4.6.4
+  '@chakra-ui/cli': 1.9.0_typescript@4.7.2
   '@marceloalves/prettier-config': 1.0.0
   '@types/react': 18.0.8
   '@types/react-dom': 18.0.3
   '@vitejs/plugin-react': 1.3.2
   prettier: 2.6.2
-  typescript: 4.6.4
+  typescript: 4.7.2
   vite: 2.9.9
 
 packages:
@@ -408,7 +408,7 @@ packages:
       react: 18.1.0
     dev: false
 
-  /@chakra-ui/cli/1.9.0_typescript@4.6.4:
+  /@chakra-ui/cli/1.9.0_typescript@4.7.2:
     resolution: {integrity: sha512-ahZ+ugz2ceMJwrCkQy1RqtWrKbKlChvL71+QplcsqPyyvQmDXIGUBXvo8d3/JEsb0SkFlHwzoDxqHw1k2tO9SA==}
     hasBin: true
     dependencies:
@@ -421,7 +421,7 @@ packages:
       ora: 5.4.1
       prettier: 2.6.2
       regenerator-runtime: 0.13.9
-      ts-node: 10.4.0_typescript@4.6.4
+      ts-node: 10.4.0_typescript@4.7.2
       tsconfig-paths: 3.12.0
       update-notifier: 5.1.0
     transitivePeerDependencies:
@@ -1456,7 +1456,6 @@ packages:
       '@types/prop-types': 15.7.4
       '@types/scheduler': 0.16.2
       csstype: 3.0.10
-    dev: true
 
   /@types/responselike/1.0.0:
     resolution: {integrity: sha512-85Y2BjiufFzaMIlvJDvTTB8Fxl2xfLo4HgmHzVBz08w4wDePCTjYw66PdrolO0kzli3yam/YCgRufyo1DdQVTA==}
@@ -2906,7 +2905,7 @@ packages:
     resolution: {integrity: sha1-bkWxJj8gF/oKzH2J14sVuL932jI=}
     dev: false
 
-  /ts-node/10.4.0_typescript@4.6.4:
+  /ts-node/10.4.0_typescript@4.7.2:
     resolution: {integrity: sha512-g0FlPvvCXSIO1JDF6S232P5jPYqBkRL9qly81ZgAOSU7rwI0stphCgd2kLiCrU9DjQCrJMWEqcNSjQL02s6d8A==}
     hasBin: true
     peerDependencies:
@@ -2931,7 +2930,7 @@ packages:
       create-require: 1.1.1
       diff: 4.0.2
       make-error: 1.3.6
-      typescript: 4.6.4
+      typescript: 4.7.2
       yn: 3.1.1
     dev: true
 
@@ -2962,8 +2961,8 @@ packages:
       is-typedarray: 1.0.0
     dev: true
 
-  /typescript/4.6.4:
-    resolution: {integrity: sha512-9ia/jWHIEbo49HfjrLGfKbZSuWo9iTMwXO+Ca3pRsSpbsMbc7/IU8NKdCZVRRBafVPGnoJeFL76ZOAA84I9fEg==}
+  /typescript/4.7.2:
+    resolution: {integrity: sha512-Mamb1iX2FDUpcTRzltPxgWMKy3fhg0TN378ylbktPGPK/99KbDtMQ4W1hwgsbPAsG3a0xKa1vmw4VKZQbkvz5A==}
     engines: {node: '>=4.2.0'}
     hasBin: true
     dev: true
