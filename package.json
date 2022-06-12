@@ -13,8 +13,8 @@
     "@chakra-ui/icons": "1.1.7",
     "@chakra-ui/react": "1.8.8",
     "@chakra-ui/styled-system": "1.19.0",
-    "@emotion/react": "11.9.0",
-    "@emotion/styled": "11.8.1",
+    "@emotion/react": "11.9.3",
+    "@emotion/styled": "11.9.3",
     "framer-motion": "6.3.3",
     "react": "18.1.0",
     "react-dom": "18.1.0"
