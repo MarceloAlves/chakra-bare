@@ -10,9 +10,9 @@
   },
   "prettier": "@marceloalves/prettier-config",
   "dependencies": {
-    "@chakra-ui/icons": "2.0.10",
-    "@chakra-ui/react": "2.3.4",
-    "@chakra-ui/styled-system": "2.3.3",
+    "@chakra-ui/icons": "2.0.11",
+    "@chakra-ui/react": "2.3.5",
+    "@chakra-ui/styled-system": "2.3.4",
     "@emotion/react": "11.10.4",
     "@emotion/styled": "11.10.4",
     "@fontsource/inter": "4.5.13",
