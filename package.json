@@ -23,7 +23,7 @@
   "devDependencies": {
     "@chakra-ui/cli": "2.3.0",
     "@marceloalves/prettier-config": "1.0.0",
-    "@types/node": "16.11.56",
+    "@types/node": "18.11.18",
     "@types/react": "18.0.17",
     "@types/react-dom": "18.0.6",
     "@vitejs/plugin-react": "3.0.0",
