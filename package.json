@@ -15,7 +15,7 @@
     "@chakra-ui/styled-system": "2.5.1",
     "@emotion/react": "11.10.5",
     "@emotion/styled": "11.10.5",
-    "@fontsource/inter": "4.5.14",
+    "@fontsource/inter": "4.5.15",
     "framer-motion": "8.4.3",
     "react": "18.2.0",
     "react-dom": "18.2.0"
