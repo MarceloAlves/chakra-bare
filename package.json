@@ -15,20 +15,20 @@
     "@chakra-ui/styled-system": "2.5.1",
     "@emotion/react": "11.10.5",
     "@emotion/styled": "11.10.5",
-    "@fontsource/inter": "4.5.14",
-    "framer-motion": "8.4.3",
+    "@fontsource/inter": "4.5.15",
+    "framer-motion": "9.0.2",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
   "devDependencies": {
     "@chakra-ui/cli": "2.3.0",
     "@marceloalves/prettier-config": "1.0.0",
-    "@types/node": "18.11.18",
-    "@types/react": "18.0.26",
+    "@types/node": "18.13.0",
+    "@types/react": "18.0.27",
     "@types/react-dom": "18.0.10",
-    "@vitejs/plugin-react": "3.0.1",
-    "prettier": "2.8.3",
+    "@vitejs/plugin-react": "3.1.0",
+    "prettier": "2.8.4",
     "typescript": "4.9.5",
-    "vite": "4.0.4"
+    "vite": "4.1.1"
   }
 }
