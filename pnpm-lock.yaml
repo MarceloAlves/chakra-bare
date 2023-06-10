@@ -1,4 +1,8 @@
-lockfileVersion: '6.0'
+lockfileVersion: '6.1'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
 
 dependencies:
   '@chakra-ui/icons':
@@ -17,8 +21,8 @@ dependencies:
     specifier: 11.11.0
     version: 11.11.0(@emotion/react@11.11.0)(@types/react@18.2.6)(react@18.2.0)
   '@fontsource/inter':
-    specifier: 5.0.0
-    version: 5.0.0
+    specifier: 5.0.3
+    version: 5.0.3
   framer-motion:
     specifier: 10.12.12
     version: 10.12.12(react-dom@18.2.0)(react@18.2.0)
@@ -1715,8 +1719,8 @@ packages:
     dev: true
     optional: true
 
-  /@fontsource/inter@5.0.0:
-    resolution: {integrity: sha512-yhNfm2hV+5u7PQDSGYraJ6g1nbaVuWJFiE9fo1r0Tg2xthveZsYFOUltLRLCASo3DIkTkPgf1WX8Wpxfm3IEUQ==}
+  /@fontsource/inter@5.0.3:
+    resolution: {integrity: sha512-JJvh5xht71F6e0E5r2+Ffu8g+CYAxMvnGJm9ZMg5IIjy8UwxLp+8C99TgPJupdEyBpEJv0wuMG2Rd183z/bV8g==}
     dev: false
 
   /@jridgewell/gen-mapping@0.1.1:
