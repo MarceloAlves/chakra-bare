@@ -21,8 +21,8 @@ dependencies:
     specifier: 11.11.0
     version: 11.11.0(@emotion/react@11.11.0)(@types/react@18.2.13)(react@18.2.0)
   '@fontsource/inter':
-    specifier: 5.0.0
-    version: 5.0.0
+    specifier: 5.0.4
+    version: 5.0.4
   framer-motion:
     specifier: 10.12.12
     version: 10.12.12(react-dom@18.2.0)(react@18.2.0)
@@ -1947,8 +1947,8 @@ packages:
     dev: true
     optional: true
 
-  /@fontsource/inter@5.0.0:
-    resolution: {integrity: sha512-yhNfm2hV+5u7PQDSGYraJ6g1nbaVuWJFiE9fo1r0Tg2xthveZsYFOUltLRLCASo3DIkTkPgf1WX8Wpxfm3IEUQ==}
+  /@fontsource/inter@5.0.4:
+    resolution: {integrity: sha512-rUiTktdsh6B45XRZYTsZb2y4+TVkiVJhkqCSnSXfWxdUl0Rp6Cheu27IcurdjSfxJPUD+nl18wYp5RFf5P5zlA==}
     dev: false
 
   /@jridgewell/gen-mapping@0.1.1:
