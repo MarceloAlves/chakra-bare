@@ -21,8 +21,8 @@ dependencies:
     specifier: 11.11.0
     version: 11.11.0(@emotion/react@11.11.1)(@types/react@18.2.15)(react@18.2.0)
   '@fontsource/inter':
-    specifier: 5.0.5
-    version: 5.0.5
+    specifier: 5.0.13
+    version: 5.0.13
   framer-motion:
     specifier: 10.12.22
     version: 10.12.22(react-dom@18.2.0)(react@18.2.0)
@@ -1448,6 +1448,7 @@ packages:
 
   /@emotion/memoize@0.7.4:
     resolution: {integrity: sha512-Ja/Vfqe3HpuzRsG1oBtWTHk2PGZ7GR+2Vz5iYGelAw8dx32K0y7PjVuxK6z1nMpZOqAFsRUPCkK1YjJ56qJlgw==}
+    requiresBuild: true
     dev: false
     optional: true
 
@@ -1927,8 +1928,8 @@ packages:
     dev: true
     optional: true
 
-  /@fontsource/inter@5.0.5:
-    resolution: {integrity: sha512-RE1JmWRB6Kxo+1nXUnORSSH5uKgUZ2QEQE+h/nsNt758C+17G9y26E9QiAsIqsG13NpKhwn22EeECfyC+da5ew==}
+  /@fontsource/inter@5.0.13:
+    resolution: {integrity: sha512-FVIBhP9X/x02blF2VQl2Pji/c3jUjkWEQ9bom4vIrGwO1MlHRDXhXx9iA1hhjpcCIfH3oX68ihIBdYcFnOXhsg==}
     dev: false
 
   /@jridgewell/gen-mapping@0.3.3:
