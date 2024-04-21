@@ -21,5 +21,5 @@ pnpx degit marceloalves/chakra-bare#main chakra-bare
 Then install deps and run
 
 ```sh
-pnpm i && pnpm dev
+bun i && bun run dev
 ```
